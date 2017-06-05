@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inventory app</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_product_title">Add Product</string>
+    <string name="edit_product_title">Edit product</string>
+    <string name="insert_product_failed">Inserting product failed</string>
+    <string name="insert_product_successful">Product added</string>
+    <string name="update_product_failed">Product update failed</string>
+    <string name="update_product_successful">Product updated successful</string>
+    <string name="save_item">Save product</string>
+    <string name="delete_item">Delete product</string>
+</resources>
